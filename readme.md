@@ -11,7 +11,7 @@
 2. pytest --pylint
 3. pytest --pylint --cov
 4. python main.py 2 2 add
-5. pytest test/test_main.py
+5. pytest tests/test_main.py
 
 ## My Understanding
 1. In this homework, I integrated the Faker library to dynamically generate test data for the calculator operations. 
